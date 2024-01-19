@@ -32,15 +32,23 @@ h4{
     
 }
 a:hover{
-    background-color: aliceblue;
-    color: blue;
+    background-color: black;
+    color: white;
+    border: 1px white dotted;
+    padding-bottom: 2px;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 #list-items{
     display: flex;
     justify-content: space-between;
     width: 90%;
-    flex-direction: row;
+    /* flex-direction: column; */
     list-style: none;
     color: aqua;
+}
+a{
+    text-decoration: none;
+    color: crimson;
 }
