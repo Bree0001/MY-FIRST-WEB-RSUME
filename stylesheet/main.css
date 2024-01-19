@@ -35,3 +35,12 @@ a:hover{
     background-color: aliceblue;
     color: blue;
 }
+
+#list-items{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    flex-direction: row;
+    list-style: none;
+    color: aqua;
+}
