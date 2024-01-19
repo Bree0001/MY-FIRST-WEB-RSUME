@@ -1,0 +1,37 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: bisque;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+h1{
+    font-size: x-large;
+    font-style: inherit;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    text-align: center;
+    background-color: aqua;
+}
+h2{
+    font-size: medium;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+h3{
+    font-size: small;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+}
+h4{
+    font-size: small;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgrey;
+    
+}
+a:hover{
+    background-color: aliceblue;
+    color: blue;
+}
